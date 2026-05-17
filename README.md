@@ -93,6 +93,17 @@ Normal
 
 ---
 
+## Results at a Glance
+
+| Best Area | Model |
+|---|---|
+| Highest Accuracy | Experiment 2 — Partial 30% Fine-Tuning |
+| Highest Macro F1-score | Experiment 3 — Full Fine-Tuning with Imbalance Handling |
+| Best Impaired Recall | Experiment 3 |
+| Best Mild Recall | Experiment 3 |
+
+---
+
 ## Key Findings
 
 Experiment 2 achieved the highest overall accuracy at **0.8838**, showing that partial fine-tuning improved general classification performance compared with the frozen baseline.
