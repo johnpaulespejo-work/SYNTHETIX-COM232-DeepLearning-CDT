@@ -129,12 +129,7 @@ SYNTHETIX-COM232-DeepLearning-CDT/
 │   └── SYNTHETIX_COM232_CS_ELEC_Experiment3_FullFineTuning_ResNet18.ipynb
 │
 ├── results/
-│   ├── exp1_summary_metrics.csv
-│   ├── exp1_per_class_metrics.csv
-│   ├── exp2_summary_metrics.csv
-│   ├── exp2_per_class_metrics.csv
-│   ├── exp3_summary_metrics.csv
-│   └── exp3_per_class_metrics.csv
+│   ├── experiments_summary_metrics.csv
 │
 └── figures/
     ├── exp1_confusion_matrix.png
