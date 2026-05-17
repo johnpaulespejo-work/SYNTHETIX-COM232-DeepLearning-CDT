@@ -201,3 +201,12 @@ The experiments show that ResNet18 transfer learning can classify Clock Drawing 
 Partial fine-tuning achieved the highest overall accuracy, while full fine-tuning with imbalance handling achieved the best class-balanced performance.
 
 The results suggest that deep learning may support preliminary CDT image classification. However, the model should be interpreted as a screening-support approach rather than a diagnostic tool.
+
+---
+
+## Limitations
+
+- The dataset is imbalanced, especially for the `Impaired` class.
+- The model is intended as a screening-support approach, not a diagnostic tool.
+- Further validation using local Filipino elderly CDT samples is recommended.
+- Grad-CAM explainability may be added in future work to improve interpretability.
